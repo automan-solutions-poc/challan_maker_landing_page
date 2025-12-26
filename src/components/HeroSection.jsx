@@ -41,14 +41,14 @@ export default function HeroSection({ onBookDemo }) {
 >
   Book a Demo
 </Button>          </Link>
-          <Button
+          {/* <Button
             size="lg"
             variant="outline-light"
             href="https://portal.challanmaker.com"
             className="px-5 py-2"
           >
             Tenant Login
-          </Button>
+          </Button> */}
         </motion.div>
       </Container>
     </section>

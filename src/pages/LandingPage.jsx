@@ -22,7 +22,7 @@ export default function LandingPage() {
       <FeaturesSection />
       <DemoVideoSection />
       <StorySection />
-      <TestimonialsSection />
+      {/* <TestimonialsSection /> */}
       <PricingSection onBookDemo={handleOpen} />
       <Footer />
 
