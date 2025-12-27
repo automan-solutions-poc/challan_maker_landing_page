@@ -20,7 +20,6 @@ const plans = [
       "Unlimited challans",
       "5 Tenant users",
       "Branded PDFs & QR codes",
-      "Branded PDFs & QR codes",
       "Priority support",
     ],
     highlight: true,
